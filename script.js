@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
     
-    const API_URL = "http://localhost:8080/api/products"; // Reemplaza con la URL de tu API
+    const API_URL = "https://api-product-g1pw.onrender.com/api/products"; // Reemplaza con la URL de tu API
 
     const productForm = document.getElementById("productForm");
     const productTableBody = document.getElementById("productTableBody");
